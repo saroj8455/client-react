@@ -29,16 +29,26 @@ export default function Heading() {
             </p>
           </div>
           <div className='bg-slate-400 flex p-4 flex-row  justify-center'>
-            <label htmlFor='address'>Communication Address</label>
-            <textarea
-              name='address'
-              className='rounded-md resize'
-              id='address'
-              cols='30'
-              rows='5'
-            ></textarea>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius
+              quod dignissimos quos esse impedit sint tenetur cupiditate, quasi
+              magni porro architecto, ratione fuga doloremque adipisci
+              necessitatibus tempore temporibus. Velit, repellat?
+            </p>
           </div>
-          <div className='bg-slate-400'>04</div>
+          <div className='bg-slate-400 p-4 rounded'>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, in
+            tempore mollitia harum temporibus error consequatur quisquam
+            inventore quasi nostrum, nesciunt soluta perferendis facilis minima
+            repudiandae? Quibusdam porro debitis laudantium!
+          </div>
+        </div>
+        <div className='min-h-screen grid place-content-center'>
+          <div className='bg-emerald-500 w-52 h-52 rounded-full shadow-2xl grid place-content-center'>
+            <div className='bg-teal-200 w-32 h-32 rounded-full grid place-content-center'>
+              <div className='bg-red-500 w-16 h-16 rounded-full'></div>
+            </div>
+          </div>
         </div>
       </div>
     </>
